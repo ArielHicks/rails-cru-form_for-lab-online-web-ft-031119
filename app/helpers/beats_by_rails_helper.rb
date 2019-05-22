@@ -1,0 +1,2 @@
+module BeatsByRailsHelper
+end

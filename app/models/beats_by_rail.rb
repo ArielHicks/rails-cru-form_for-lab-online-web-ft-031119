@@ -1,0 +1,2 @@
+class BeatsByRail < ApplicationRecord
+end

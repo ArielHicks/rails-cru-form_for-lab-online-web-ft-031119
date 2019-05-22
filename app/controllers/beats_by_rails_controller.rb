@@ -1,0 +1,2 @@
+class BeatsByRailsController < ApplicationController
+end
